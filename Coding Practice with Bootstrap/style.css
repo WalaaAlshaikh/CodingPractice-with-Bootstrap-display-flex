@@ -1,0 +1,37 @@
+.container {
+    margin-top: 20px;
+    background-color: gainsboro;
+    width: max-content;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.block-img {
+
+    width: 110px;
+    border: 2px solid black;
+
+    margin: 5px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+#block-img1 {
+    background-color: aliceblue;
+}
+
+#block-img2 {
+    background-color: rgb(250, 215, 241);
+}
+
+.header-img {
+
+    width: 100px;
+    border-radius: 5px;
+}
+
+#header {
+    margin-left: 40px;
+    font-size: 30px;
+}
